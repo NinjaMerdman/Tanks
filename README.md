@@ -1,2 +1,2 @@
-# Tanks
-Tanks Tutorial from Udemy
+# Battle Tanks
+Tanks Tutorial from Udemy by Ben Tristram
